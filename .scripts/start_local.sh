@@ -1,0 +1,1 @@
+docker-compose --project-name=mssql_core --file=docker-compose.yml up -d
